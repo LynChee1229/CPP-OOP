@@ -1,0 +1,24 @@
+1001 |Magazine  |Popular Time                  |Book Sdn. Bhd.                |10    |20.00     |10 |2001 |empty               |empty               
+1002 |Book      |Your Science Knowledge        |Book Sdn. Bhd.                |10    |38.00     |0  |0    |Adam Harris         |empty               
+1003 |Movie     |Programming is Fun            |Movie Store Company           |4     |120.00    |0  |0    |empty               |James Berund        
+1004 |Magazine  |The New Magazine World        |Magazine Sdn. Bhd.            |20    |60.00     |12 |2016 |empty               |empty               
+1005 |Movie     |All The Best In Final         |Movie Store Company           |8     |98.00     |0  |0    |empty               |Chadwick Boseman         
+1006 |Magazine  |The Creative Future           |The Story Line Sdn. Bhd.      |30    |40.00     |3  |2015 |empty               |empty               
+1007 |Book      |Alice's Adventures            |Macmillan Publishers          |30    |150.00    |0  |0    |Lewis Carroll       |empty               
+1008 |Movie     |The Phantom of The Opera      |Andrew Lloyd Webber           |5     |350.00    |0  |0    |empty               |Michael Crawford    
+1009 |Book      |Don Quixote                   |Miguel Company                |10    |300.00    |0  |0    |Miguel de Cervantas |empty             
+1010 |Movie     |Underwater                    |20th Century Studios          |10    |250.00    |0  |0    |empty               |Kristen           
+1011 |Book      |A Tale of Two Cities          |The Story Line Sdn. Bhd.      |3     |70.00     |0  |0    |Charles Dickens     |empty             
+1012 |Magazine  |AARP Magazine                 |Magazine Sdn. Bhd.            |5     |75.00     |3  |2020 |empty               |empty             
+1013 |Book      |The Lord of The Rings         |Book Sdn. Bhd.                |3     |105.00    |0  |0    |J.R.R. Tolkien      |empty             
+1014 |Book      |The Little Price              |The Story Line Sdn. Bhd.      |10    |35.00     |0  |0    |Antoine Saint       |empty             
+1015 |Movie     |The Paltform                  |Netflix Corporate             |30    |250.00    |0  |0    |empty               |Alexandra Masang  
+1016 |Magazine  |Game Informer Magazine        |Magazine Sdn. Bhd.            |20    |50.00     |5  |2010 |empty               |empty            
+1017 |Movie     |Little Women                  |Greta Gerwig                  |10    |250.00    |0  |0    |empty               |Timothee Chalamet 
+1018 |Magazine  |People Magazine               |Magazine Sdn. Bhd.            |10    |55.00     |5  |2010 |empty               |empty            
+1019 |Book      |The Dream of the Red Chamber  |Book Sdn. Bhd.                |10    |75.00     |0  |0    |Chao Xueqin         |empty            
+1020 |Magazine  |Time                          |Magazine Sdn. Bhd.            |50    |50.00     |6  |2020 |empty               |empty            
+1021 |Movie     |Me Before You                 |Jojo Moyes                    |36    |256.00    |0  |0    |empty               |Sam Claffin      
+1022 |Movie     |Joker                         |Warner Bros                   |37    |256.00    |0  |0    |empty               |Joaquin Phoenix  
+1023 |Magazine  |National Geographic           |Magazine Sdn. Bhd.            |55    |79.00     |3  |2020 |empty               |empty            
+1024 |Book      |The Alchemist                 |Book Sdn. Bhd.                |30    |80.00     |0  |0    |Paulo Coelho        |empty            

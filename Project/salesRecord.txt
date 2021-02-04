@@ -1,0 +1,14 @@
+10 |104  |1002 |Your Science Knowledge        |3   |38.00     |
+11 |102  |1001 |Popular Time                  |12  |20.00     |
+11 |102  |1005 |All The Best In Final         |4   |98.00     |
+12 |103  |1003 |Programming is Fun            |1   |120.00    |
+13 |104  |1004 |The New Magazine World        |15  |60.00     |
+14 |101  |1002 |Your Science Knowledge        |8   |38.00     |
+14 |101  |1005 |All The Best In Final         |2   |98.00     |
+15 |105  |1022 |Joker                         |18  |256.00    |
+15 |105  |1024 |The Alchemist                 |7   |80.00     |
+15 |105  |1018 |People Magazine               |2   |55.00     |
+16 |106  |1009 |Don Quixote                   |5   |300.00    |
+17 |101  |1023 |National Geographic           |2   |79.00     |
+17 |101  |1020 |Time                          |17  |50.00     |
+17 |101  |1022 |Joker                         |11  |256.00    |
